@@ -3,11 +3,11 @@
 
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,js,git,mongodb,react,nextjs,github,django,nodejs,vscode,s,vercel,codepen"/>
+   <img src="https://skillicons.dev/icons?i=html,css,js,git,mongodb,react,nextjs,github,django,nodejs,vscode,vercel,codepen"/>
 </p>
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> My GitHub History!
+## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30px" height="30px"> My GitHub History!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ketan132614&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only"/>
