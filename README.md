@@ -1,6 +1,4 @@
-
 ## 🔗 Let's Connect
-
 <p align="center">
   <a href="https://ketan-gupta.vercel.app/" target="_blank">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
@@ -12,9 +10,8 @@
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
   </a>
 </p>
+
 ## <img src= "output-onlinegiftools (1).gif" width="30px" height="30px"> Technologies
-
-
 
 <p align="center">
    <img src="https://skillicons.dev/icons?i=html,css,js,git,mongodb,react,nextjs,github,nodejs,vscode,vercel,codepen"/>
