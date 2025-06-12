@@ -22,7 +22,7 @@
 ## <img src= "output-onlinegiftools (1).gif" width="30px" height="30px"> Technologies
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,js,git,mongodb,react,nextjs,github,nodejs,vscode,windows,vercel,codepen"/>
+   <img src="https://skillicons.dev/icons?i=html,css,js,git,alpinejs,mongodb,react,npm,figma,tailwindcss,nextjs,photoshop,vite,github,blender,nodejs,docker,unity,vscode,postman,windows,vercel,codepen"/>
 </p>
 <br>
 
