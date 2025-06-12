@@ -1,13 +1,14 @@
+<em>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Its,%20Ketan%20🤫&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
 <p align="center">
-  <img src="WhatsApp Video 2025-06-12 at 12.16.39_4038c19b.mp4.gif" width="530px" height="730px" />
+  <img src="WhatsApp Video 2025-06-12 at 12.16.39_4038c19b.mp4.gif" width="430px" height="598px" />
 </p>
 
 ## 🔗 Let's Connect
 <p align="center">
-  <a href="https://ketan-gupta.vercel.app/" target="_blank">
+   <a href="https://ketan-gupta.vercel.app/" target="_blank">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
   </a>
   <a href="https://www.linkedin.com/in/ketan-gupta-1a5b7b340/" target="_blank">
@@ -37,6 +38,7 @@
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adarsh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ketan132614&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
     
   </p>
+  <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ketan132614&theme=onedark"/>
 </p>
  
@@ -47,3 +49,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer"/>
 </p>
+</em>
