@@ -14,7 +14,7 @@
 ## <img src= "output-onlinegiftools (1).gif" width="30px" height="30px"> Technologies
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,js,git,mongodb,react,nextjs,github,nodejs,vscode,vercel,codepen"/>
+   <img src="https://skillicons.dev/icons?i=html,css,js,git,mongodb,react,nextjs,github,nodejs,vscode,windows,vercel,codepen"/>
 </p>
 <br>
 
