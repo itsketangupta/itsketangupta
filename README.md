@@ -1,9 +1,9 @@
 <p align="center">
-  <img src=""/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey!%20Its,%20Ketan%20🤫&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
-
-
-
+<p align="center">
+  <img src="WhatsApp Video 2025-06-12 at 12.16.39_4038c19b.mp4.gif" width="490px" height="730px" />
+</p>
 
 ## 🔗 Let's Connect
 <p align="center">
