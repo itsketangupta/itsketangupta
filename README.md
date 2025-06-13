@@ -7,7 +7,7 @@
 </p>    
        
 ## 🔗 Let's Connect        
-<p align="center">     
+<p align="center">        
    <a href="https://ketan-gupta.vercel.app/" target="_blank">   
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
   </a>
