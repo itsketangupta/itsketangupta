@@ -23,6 +23,10 @@
 #### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=js)
 
+<p>
+<img width="45%" align="right" alt="GitHub Image" src="https://res.cloudinary.com/dwnurvsv4/image/upload/v1701197506/astrocat_ekrcmq.png" />
+</p>
+
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,tailwind,nextjs)
 
@@ -43,15 +47,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ketan132614&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only"/>
-
-<img width="45%" align="right" alt="GitHub Image" src="https://res.cloudinary.com/dwnurvsv4/image/upload/v1701197506/astrocat_ekrcmq.png" />
   
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketan132614&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only" />
   </p>
   
   <p align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adarsh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ketan132614&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ketan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ketan132614&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
     
   </p>
   <p align="center">
@@ -66,7 +68,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ketan132614&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </p>
 
-## <img src="output-onlinegiftools.gif" width="50px" height="50px"> Visitors Count
+## <img src="output-onlinegiftools (1).gif" width="50px" height="50px"> Visitors Count
 
 ![Visitor Count](https://profile-counter.glitch.me/ketan132614/count.svg)
 
