@@ -41,6 +41,10 @@
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ketan132614&theme=onedark"/>
 </p>
+
+   ## <img src="https://img.icons8.com/color/256/discord-logo.png" width="30px" height="30px" alt="DiscordLogo"> My Discord Status
+ 
+ <a href="https://discord.com/users/1382769924820172894" target="_blank"><img src="https://discord.c99.nl/widget/theme-3/1382769924820172894.png"/>
  
 ## <img src="output-onlinegiftools.gif" width="50px" height="50px"> Visitors Count
 
