@@ -45,7 +45,11 @@
    ## <img src="https://img.icons8.com/color/256/discord-logo.png" width="30px" height="30px" alt="DiscordLogo"> My Discord Status
  
  <a href="https://discord.com/users/1382769924820172894" target="_blank"><img src="https://discord.c99.nl/widget/theme-3/1382769924820172894.png"/>
- 
+ <hr>
+ <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketan132614&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</p>
+
 ## <img src="output-onlinegiftools.gif" width="50px" height="50px"> Visitors Count
 
 ![Visitor Count](https://profile-counter.glitch.me/ketan132614/count.svg)
