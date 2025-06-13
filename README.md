@@ -19,12 +19,25 @@
   </a>
 </p>
 
-## <img src= "output-onlinegiftools (1).gif" width="30px" height="30px"> Technologies
+## Skills
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=js)
 
-<p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,js,git,alpinejs,mongodb,react,npm,figma,tailwindcss,nextjs,photoshop,vite,github,blender,nodejs,docker,unity,vscode,postman,windows,vercel,codepen"/>
-</p>
-<br>
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,tailwind,nextjs)
+
+#### Backend Technologies
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,npm)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=mongodb)
+
+#### DevOps & Cloud
+![Others](https://skillicons.dev/icons?i=docker,git,github,vercel)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=markdown,vscode,visualstudio,photoshop,windows,blender,vite,postman,unity,figma,codepen)
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30px" height="30px"> My GitHub History!
 
@@ -48,7 +61,7 @@
    ## <img src="https://img.icons8.com/color/256/discord-logo.png" width="30px" height="30px" alt="DiscordLogo"> My Discord Status
  
  <a href="https://discord.com/users/1382769924820172894" target="_blank"><img src="https://discord.c99.nl/widget/theme-3/1382769924820172894.png"/>
- <hr>
+   ## <img src="https://cdn.dribbble.com/userupload/41790954/file/original-800c22da749d10eeb98ccded6e89b11d.gif" width="30px" height="30px" alt="Contribute graph"> My Contribution Graph
  <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ketan132614&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </p>
