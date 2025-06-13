@@ -30,6 +30,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ketan132614&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only"/>
+
+<img width="45%" align="right" alt="GitHub Image" src="https://res.cloudinary.com/dwnurvsv4/image/upload/v1701197506/astrocat_ekrcmq.png" />
+  
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketan132614&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only" />
   </p>
