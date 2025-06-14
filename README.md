@@ -68,7 +68,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ketan132614&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </p>
 
-## <img src="output-onlinegiftools.gif" width="50px" height="50px"> Visitors Count
+## <img src=".gif" width="50px" height="50px"> Visitors Count
 
 ![Visitor Count](https://profile-counter.glitch.me/ketan132614/count.svg)
 
