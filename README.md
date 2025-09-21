@@ -28,19 +28,16 @@
 </p>
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,tailwind,nextjs)
-
-#### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=nodejs,npm)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,tailwind)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mongodb)
 
 #### DevOps & Cloud
-![Others](https://skillicons.dev/icons?i=docker,git,github,vercel)
+![Others](https://skillicons.dev/icons?i=git,github,vercel)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=markdown,vscode,windows,vite,postman,unity,figma,codepen)
+![Others](https://skillicons.dev/icons?i=markdown,vscode,windows,vite,figma,codepen)
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30px" height="30px"> My GitHub History!
