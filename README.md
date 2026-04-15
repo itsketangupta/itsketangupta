@@ -60,9 +60,10 @@
    ## <img src="https://img.icons8.com/color/256/discord-logo.png" width="30px" height="30px" alt="DiscordLogo"> My Discord Status
  
  <a href="https://discord.com/users/1382769924820172894" target="_blank"><img src="https://discord.c99.nl/widget/theme-3/1382769924820172894.png"/>
-   ## <img src="https://cdn.dribbble.com/userupload/41790954/file/original-800c22da749d10eeb98ccded6e89b11d.gif" width="30px" height="30px" alt="Contribute graph"> My Contribution Graph
+## 🐍 Contribution Snake
  <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsketangupta&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+![snake gif](https://raw.githubusercontent.com/itsketangupta/itsketangupta/output/github-contribution-grid-snake-dark.svg)
 </p>
 
 ## <img src=".gif" width="50px" height="50px"> Visitors Count
